@@ -1,1 +1,1 @@
-# FMML-Lab1-module
+# FMML-Lab sessions
